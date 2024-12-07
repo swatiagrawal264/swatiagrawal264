@@ -12,8 +12,9 @@
 ### Major Projects:
 1. Security Lens CVE Finder AI Chatbot - [Link](https://github.com/swatiagrawal264/SecurityLens_CVE-Finder_AI-Chatbot/blob/main/README.md)
 2. Personalization in Language Models - A Study with News and Social Media Data - [Link](https://github.com/swatiagrawal264/Personalization-in-Language-Models-A-Study-with-News-and-Social-Media-Data/blob/main/Final_Project_Report.pdf)
-3. Distributed Server Application for Stock Trading using gRPC - [Link](https://github.com/swatiagrawal264/Distributed-Server-Application-for-Stock-Trading-using-gRPC)
-4. Hikers N Bikers Elevation Navigation System - [Link](https://github.com/swatiagrawal264/Hikers-N-Bikers/blob/main/README.md)
+3. LinkedIn Post Generator - A Gen AI Project - [Link](https://github.com/swatiagrawal264/Linkedin_Post_Generator)
+4. Distributed Server Application for Stock Trading using gRPC - [Link](https://github.com/swatiagrawal264/Distributed-Server-Application-for-Stock-Trading-using-gRPC)
+5. Hikers N Bikers Elevation Navigation System - [Link](https://github.com/swatiagrawal264/Hikers-N-Bikers/blob/main/README.md)
 
 
 
